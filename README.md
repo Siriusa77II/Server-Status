@@ -1,7 +1,9 @@
-Traduction francaise Par Sirius
-*Fork from [kevwu's status repo](https://github.com/kevwu/status)*
+### page de Status Basique
+##Crée par:
+[kevwu's status repo](https://github.com/kevwu/status)*
 
-Ceci est une basic page web qui vas service a connaitre l'état de son serveur et certains service.
+Ceci est une simple page web php qui va indiquer le status de certains services sur le serveur hote.  
+je n'ai pas crée cette page je l'ai juste traduite il y as quelques année puis fork sur ce compte.
 
 Les commande utilisée fonctionne sous débian  ou une distubution de débian (Ubuntu et ses variante par exemple) certaine fonction ont etait crée pour mon materiel vous aurez peut etre besoin de changer certaine ligne.
 
